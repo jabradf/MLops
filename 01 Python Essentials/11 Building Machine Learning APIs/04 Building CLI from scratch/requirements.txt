@@ -1,0 +1,9 @@
+click==8.1.7
+flake8
+mccabe
+pandas==1.5.3
+pycodestyle
+pyflakes
+python-dateutil
+pytz
+six==1.16.0
